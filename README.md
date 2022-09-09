@@ -1,5 +1,5 @@
 -  Hi, I’m yash
--  I’m interested in cybersecurity
+-  I’m interested in video game engines
 -  How to reach yashgole1675@protonmail.com
 
 <!---
